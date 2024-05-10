@@ -1,0 +1,27 @@
+@font-face {
+    font-family: 'Chemifonti#1';
+    src: url("fonts/JacquesFrancoisShadow-Regular.ttf");
+}
+
+@font-face {
+    font-family: 'Chemifonti#2';
+    src: url("fonts/Play-Regular.ttf");
+}
+
+@font-face {
+    font-family: 'Chemifonti#3';
+    src: url("fonts/OriginalSurfer-Regular.ttf");
+}
+
+h3 {
+    font-family: "Chemifonti#1";
+}
+
+#textfirst {
+    font-family: "chemifonti#3";
+}
+
+#textsecond {
+    font-family: "chemifonti#2";
+    text-align: justify;
+}
